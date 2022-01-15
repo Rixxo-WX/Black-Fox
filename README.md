@@ -5,6 +5,7 @@ Black Fox is a lightweight Roblox Exploit built on the WeAreDevs Exploit API
 
 # Getting Started 
 You will first need a DLL Injector, We recommend this one https://wearedevs.net/d/DLL%20Injector.
+(We also included it in the folder)
 
 After you have installed the DLL Injector, Inject the DLL provided in the folder titled "InjectME"
 than run the exploit and press "Launch"
