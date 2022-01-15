@@ -10,4 +10,6 @@ After you have installed the DLL Injector, Inject the DLL provided in the folder
 than run the exploit and press "Launch"
 
 # Help
+Make sure to **Exclude** Black Fox and "InjectMe.DLL" from your antivirus as it will give off a false positive.
+
 If you need help with anything please feel free to open a issue 
