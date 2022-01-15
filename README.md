@@ -1,7 +1,7 @@
 ![alt text](https://logodix.com/logo/1339761.png)
 
 # Black-Fox
-Black Fox is a lightweight Roblox Exploit built on the WeAreDevs Exploit API
+Black Fox is a lightweight Roblox Exploit built on the WeAreDevs Exploit API featuring a full Lua executor
 
 # Getting Started 
 Simply run the program and press "Launch"
